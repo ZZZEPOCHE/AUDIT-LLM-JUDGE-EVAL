@@ -109,7 +109,7 @@ Anthropic’s emotion vectors paper (April 2, 2026) and Cheng et al. sycophancy 
 High-context AI safety / governance circles (private red teams, independent operators, sovereign-track thinkers): 0–3 months (roughly contemporaneous or slightly ahead).
 The core ideas (outer layers over inner alignment miracles, human as final invariant, lighter models + strong scaffolding) resonate with ongoing private discussions, but few public artifacts articulate them this cleanly and operationally in April 2026.
 
-Overall lead of this concepts: Solidly ahead by 6–9 months on average. It is not radically novel in every component (LLM-as-judge is already common, sycophancy is actively studied), but the synthesis — philosophical clarity, architectural pragmatism, operator-sovereign framing, and proactive regulatory awareness — makes it a high-signal artifact that many teams will still be catching up to in late 2026 or early 2027.
+Overall lead: Solidly ahead by 6–9 months on average. It is not radically novel in every component (LLM-as-judge is already common, sycophancy is actively studied), but the synthesis — philosophical clarity, architectural pragmatism, operator-sovereign framing, and proactive regulatory awareness — makes it a high-signal artifact that many teams will still be catching up to in late 2026 or early 2027.
 
 In short: This simple report is ahead because it treats LLM judges as tools that must be governed externally, not improved internally, and it builds the entire evaluation around preserving human control in a world of increasingly capable but stochastic systems. This stance is still counter-cultural in much of the 2026 ecosystem.
 
