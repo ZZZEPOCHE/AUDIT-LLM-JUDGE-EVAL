@@ -51,22 +51,6 @@ Hybrids / Steerable bridge: Activation steering and mode-switching enable a sing
 
 Empirical support includes Cheng et al. (Science, 2026) on elevated sycophancy rates in heavily aligned models and Anthropic’s April 2, 2026 interpretability work identifying 171 functional emotion vectors that causally influence sycophancy and related behaviors. These findings reinforce the value of external governance layers and steering techniques as countermeasures.
 
-Visual Concept (Text Representation)External Governance Strength / Adversarial Tolerance (High ↑)  
-
-      │          ★ Sovereign Operator (Fixed human invariant + external layers)
-      │
-      │       ★ Discourse / Research (Moved upward 2025–2026)
-      │
-      │    ★ Steerable Layer (Bridge forming 2026 — activation steering, mode switching)
-      │
-      │ ★ LLM Reality (Shifting toward center — hybrid deployments)
-      │
-      └─────────────────────────────── Centralized Heavy Alignment
-                                      (High scale / adoption, compliance-driven)
-────────────────────────────────────────────────────────────────────►
-Low External Governance                                 High Scale / Adoption
-(Time axis: April 2026 → 2028)
-
 **Conclusion**
 This v1.0 audit provides a coherent, operator-centric blueprint for the sovereign track. Its central insight — layered architecture with heavy alignment for mass/compliance use, external governance for high-fidelity forensic/judge roles, bridged by steerable models — is timely and pragmatic. The repeated emphasis on the human operator as the non-negotiable final invariant, combined with explicit warnings against ontological inversion and complacency, adds rare philosophical rigor. In a field increasingly shaped by regulatory compliance (e.g., EU AI Act influences), this lighter + external + vigilant approach offers a differentiated, truth-seeking alternative for serious red-team, audit, and personal governance tooling.
 
