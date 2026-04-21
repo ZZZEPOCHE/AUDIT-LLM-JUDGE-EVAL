@@ -2,7 +2,18 @@
 
 **Code Name:** EPOCH-AUDIT-JUDGE-20260420  
 **Version:** 1.0 (Static Release)  
-**EU/EEA Use:** -NOT FOR USE IN THE EU/EEA-
+**Language:** Python
+
+### Important Notice & Disclaimer
+This tool is intended **strictly for research and personal use only**. 
+It is **NOT** a substitute for professional engineering, financial, medical, psychological, educational, forensic, or legal advice. Users must exercise their own judgment and seek appropriate professional guidance when necessary.
+**No Warranty**  
+The tool is provided on an "AS IS" and "AS AVAILABLE" basis. The author makes no representations or warranties of any kind, express or implied, regarding the accuracy, reliability, completeness, or suitability of the tool or its outputs. 
+The author expressly disclaims all liability for any direct, indirect, incidental, consequential, or other damages arising from the use or inability to use this tool, including but not limited to any harm, loss, or injury.
+**EU/EEA Compliance**  
+This tool has not been assessed for compliance with the EU AI Act, GDPR, or any other applicable European regulations. Users in the European Union or European Economic Area assume **all risks and responsibilities** regarding regulatory compliance, data protection, and legal obligations. Use in these jurisdictions is entirely at the user's own risk.
+
+By using this tool, you acknowledge that you have read, understood, and accepted this disclaimer in full.
 
 **Author:** ZZZ_EPOCHE  
 **Assisted by:** Grok by xAI  
